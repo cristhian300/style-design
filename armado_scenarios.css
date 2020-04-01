@@ -1,0 +1,44 @@
+
+body {
+
+/* background-color:skyblue; */
+
+}
+
+.contenedor{
+width: 100% auto;
+height: 100% auto;
+padding: 10px 10px 21px 50px;
+background-color:black;
+}
+
+.principal_scenario{
+
+background-color:skyblue;
+/* height: 100vh; */
+height: 600px;
+padding: 20px;
+}
+
+.scenario{
+
+  width: 210px;
+  height: 280px;
+  border: 1px solid;
+  cursor: pointer;
+  background-color: white;
+  
+
+
+}
+
+.scenario:hover{
+ box-shadow: 0 2px 12px 0 rgba(136, 136, 136, 0.5);
+
+}
+
+.titulo_scenario{
+
+  text-align: center;
+  padding: 5px;
+}
