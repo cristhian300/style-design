@@ -22,13 +22,13 @@ padding: 20px;
 
 .scenario{
 
-  width: 210px;
+  width: 280px;
   height: 280px;
   border: 1px solid;
   cursor: pointer;
   background-color: white;
-  
-
+  float: left;
+  margin: 10px;
 
 }
 
