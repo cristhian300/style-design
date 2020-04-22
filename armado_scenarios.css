@@ -7,7 +7,8 @@ body {
 
 .contenedor{
 width: 100% auto;
-height: 100% auto;
+/* height: 100% auto; */
+height: 100vh;
 padding: 10px 10px 21px 50px;
 background-color:black;
 }
@@ -18,6 +19,11 @@ background-color:skyblue;
 /* height: 100vh; */
 height: 600px;
 padding: 20px;
+}
+
+.principal_scenario img {
+  width: 280px;
+  height: 141px;
 }
 
 .scenario{
