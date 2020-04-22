@@ -11,13 +11,25 @@ width: 100% auto;
 height: 100vh;
 padding: 10px 10px 21px 50px;
 background-color:black;
+
+ 
+}
+
+.principal_titulo{
+
+  height: 150px;
+  border: 1px solid;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  background-color: RGB(17, 47, 79 );
 }
 
 .principal_scenario{
-
-background-color:skyblue;
+background-color: RGB(17, 47, 79 );
+/* background-color:skyblue; */
 /* height: 100vh; */
-height: 600px;
+height: 540px;
 padding: 20px;
 }
 
